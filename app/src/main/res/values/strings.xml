@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Bangkok</string>
+    <string name="sight_category">Sights</string>
+    <string name="park_category">Parks</string>
+    <string name="shops_category">Shops</string>
+    <string name="food_category">Food</string>
+    
+    <string name="sight_name_jim_thompson">Jim Thompson House</string>
+    <string name="sight_jim_short_description">Rama 1 Road Wang Mai</string>
+    <string name="sight_jim_thompson_full_description">The Jim Thompson House is a museum in central Bangkok, Thailand, housing the art collection of American businessman and architect Jim Thompson, the museum designer and former owner. Built in 1959, the museum spans one rectangular rai of land (approximately half an acre or 2023.43 meters).</string>
+    <string name="sight_jim_thompson_address">13.749551310794901,100.5281803012498</string>
+    <string name="sight_jim_thompson_string_address"><u>6 Kasem San 2 Alley Wang Mai, Pathum Wan District</u></string>
+    <string name="sight_jim_thompson_phone_number">+66 2 700 2568</string>
+    
+    <string name="sight_name_mahanakorn_skywalk">Mahanakorn Skywalk</string>
+    <string name="sight_mahanakorn_short_description">King Power Building</string>
+    <string name="sight_mahanakorn_full_description">Thailand’s highest observation deck at 314 meters offers 360 degree panoramic views from an indoor and outdoor viewing area, and is a must-see attraction to add to your Bangkok bucket list.</string>
+    <string name="sight_mahanakorn_address">13.724264066597776,100.52870786817743</string>
+    <string name="sight_mahanakorn_string_address">114 1 Naradhiwat Rajanagarindra Rd, เเขวง สีลม เขต สีลม, Bangkok 10500, Thailand</string>
+    <string name="sight_mahanakorn_phone_number">+6626778721</string>
+
+    <string name="sight_sri_mariam_temple">Sri Maha Mariamman Temple</string>
+    <string name="sight_sri_mariam_short_description">Bangrak District, Bangkok, Thailand</string>
+    <string name="sight_sri_mariam_full_description">Sri Mariamman Temple is the main Tamil Hindu temple in Thailand and is located in the Bangrak district of Bangkok.</string>
+    <string name="sight_sri_mariam_string_address">2, Si Lom Road, Si Lom Subdistrict, Bangrak District, Bangkok, Thailand</string>
+    <string name="sight_sri_mariam_address">13.724435795507912,100.52290636844431</string>
+    <string name="sight_sri_mariam_phone_number">+66 2238 4007</string>
+    
+    <string name="sight_name_sook_siam">ICONSIAM</string>
+    <string name="sight_sook_siam_short_description">The Biggest Market</string>
+    <string name="sight_sook_siam_full_description">Iconsiam, stylized as ICONSIAM, and ICS is a mixed-use development on the banks of the Chao Phraya River in Bangkok, Thailand. It includes one of the largest shopping malls in Asia, which opened to the public on 9 November 2018, as well as hotels and residences.</string>
+    <string name="sight_sook_siam_address">13.726757648827354,100.50990784145968</string>
+    <string name="sight_sook_siam_string_address">299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand</string>
+    <string name="sight_sook_siam_phone_number">+66 2 437 0711</string>
+    
+    <string name="sight_name_upper">The Upper Terrace</string>
+    <string name="sight_upper_short_description">Grand Palace Complex</string>
+    <string name="sight_upper_full_description">The magnificent palace is guarded by two huge yaks, a mythical animal dating back to the 14th century. In this walled Grand Palace complex, there are dozens of buildings: Jieji Hall, Jade Buddha, Rattana Stupa (golden bell-shaped stupa), the palace itself, the National Pillar Temple, and the Queen’s Textiles of Bangkok Museums and so on.</string>
+    <string name="sight_upper_address">13.749965250157723,100.49154204940591</string>
+    <string name="sight_upper_string_address">Grand Palace Na Phra Lan Road, Grand Palace Bangkok 10200</string>
+    <string name="sight_upper_phone_number">+66 2 677 8721</string>
+    
+    <string name="park_name_lumphini">Lumphini Park</string>
+    <string name="park_lumphini_short_description">State park in Bangkok</string>
+    <string name="park_lumphini_full">The park offers rare open public space, trees, and playgrounds in the Thai capital and contains an artificial lake where visitors can rent boats. Paths around the park totalling approximately 2.5 km in length are a popular area for morning and evening joggers.</string>
+    <string name="park_lumphini_string_address">Rama 4 Road Wangmai, Pathumwan, Bangkok 10330 Thailand</string>
+    <string name="park_lumphini_phone">+66 2 252 7006</string>
+
+    <string name="park_name_benjasiri">Benjasiri Park</string>
+    <string name="park_benjasiri_short_description">A Garden in Bangkok</string>
+    <string name="park_benjasiri_full">Benchasiri Urban Park serves to commemorate the fifth cycle (sixtieth) birthday anniversary of Queen Sirikit on 12 August 1992.</string>
+    <string name="park_benjasiri_string_address">Sukhumvit Road (between Soi 22 and 24), Khlong Toei, Bangkok, Thailand</string>
+    <string name="park_benjasiri_phone">+66 2 364 9870</string>
+
+    <string name="park_name_fai">Wachira Benchathat Park</string>
+    <string name="park_fai_short_description">State Railway Public Park</string>
+    <string name="park_fai_full">It was opened on 28 July 2002 and named by the Prince Maha Vajiralongkorn. The park borders on the Queen Sirikit Park and Chatuchak Park, and it is also the largest park of the complex, covering an area of 0.6 square kilometres. It is one of the most popular parks in Bangkok.</string>
+    <string name="park_fai_string_address">Kampaeng Phet 3 Road Lad Yao, Chatuchak, Bangkok 10900 Thailand</string>
+    <string name="park_fai_phone">+66 2 537 9221</string>
+
+    <string name="park_name_chang">ChangChui Creative Park</string>
+    <string name="park_chang_short_description">The Creative Park in Bangkok</string>
+    <string name="park_chang_full">Bangkok is famous for its night market scene, but it’s one that is rapidly changing and becoming more sophisticated as night markets begin to offer much more than just the simple trading spaces of the past. Chang Chui is one of the newest offerings to take the traditional Thai night market concept to a whole new level.</string>
+    <string name="park_chang_string_address">460/8 Sirindhorn Rd, Khwaeng Bang Phlat, Khet Bang Phlat, Krung Thep Maha Nakhon 10700</string>
+    <string name="park_chang_phone">+66 81 817 2888</string>
+
+    <string name="park_name_dusit">Dusit Grand Park</string>
+    <string name="park_dusit_short_description">Dusit Central Park in Bangkok</string>
+    <string name="park_dusit_full">Introducing a refreshing new urban design concept, Dusit Central Park unveils a stunning Roof Park that will become an integral part of its grand-scale mixed-use development at the intersection of Silom Road. Under the concept ‘Here for Bangkok’, this expansive 20-metre high landscaped garden extends from the top of the 3rd floor continuously through to the 7th floor, creating a verdant 7-rai elevated public park that will transform the heart of Bangkok.</string>
+    <string name="park_dusit_string_address">946 Rama IV Rd, Silom, Bang Rak, Bangkok</string>
+    <string name="park_dusit_phone">+66 98 845 9659</string>
+    
+    <string name="food_name_sixth">The Sixth – 6th</string>
+    <string name="food_sixth_short">Authentic Thai food</string>
+    <string name="food_sixth_full">The Sixth is a cool and hip little place with excellent authentic Thai food! With only five tables, run and owned by a young couple, the place has a friendly and relaxed atmosphere.</string>
+    <string name="food_sixth_string_address">6 Soi Tha Tien, Maharaj Road. Khet Phra Nakhon area</string>
+    <string name="food_sixth_phone">+66 23 896 2345</string>
+
+    <string name="food_name_soi">Sukhumvit Soi 38 Street</string>
+    <string name="food_soi_short">Food market along the street</string>
+    <string name="food_soi_full">Sukhumvit Soi 38 Street serves excellent authentic Thai street food. It is one of the best places to head for cheap, delicious, and fresh street food in Bangkok.</string>
+    <string name="food_soi_string_address">Sukhumvit Soi 38 street</string>
+    <string name="food_soi_phone">+66 34 876 2900</string>
+
+    <string name="food_name_prachak">Prachak Pet Jang</string>
+    <string name="food_prachak_short">Bangkok`s Best Roasted Duck</string>
+    <string name="food_prachak_full">Prachak Pet Jang, famous for its Chinese-style roasted duck with a dark, spicy sauce over rice. It is delicious! The skin is perfectly crispy, while the duck meat is super juicy. The rice is cooked perfectly, and the Chinese sausage is delicious slightly sweet.</string>
+    <string name="food_prachak_string_address">1415, Charoen Krung Road, Silom</string>
+    <string name="food_prachak_phone">+66 2 234 3755</string>
+
+    <string name="food_name_tealicious">Tealicious</string>
+    <string name="food_tealicious_short">Family-run restaurant</string>
+    <string name="food_tealicious_full">Their food is delicious, and you find authentic classic Thai dishes on the menu, all made from scratch. You can choose the spiciness, so if you can´t handle Thai spicy then they make it to your liking. They are famous for their Pad Thai, Red Curry chicken and mandatory Thai Ice Tea</string>
+    <string name="food_tealicious_string_address">492 Trok To, Soi Charoen Krung 49</string>
+    <string name="food_tealicious_phone">+66 2 639 7710</string>
+0
+    <string name="shops_name_siam">Siam Paragon</string>
+    <string name="shop_siam_short">Glass-and-steel luxury mall</string>
+    <string name="shop_siam_full">Siam Paragon is a glass-and-steel luxury megamall with over 250 shops, one of Southeast Asia’s largest aquariums, a 16-screen cineplex, and plenty of gourmet cafés and restaurants. You’ll find flagship stores of Louis Vuitton, Prada, and Versace on the ground floor, while IT stores and Thai bespoke stores occupy the 4th floor. You can also catch a movie at the luxurious Paragon Cineplex.</string>
+    <string name="shop_siam_string_address">991 Rama 1 Road, Pathumwan, Bangkok 10330, Thailand</string>
+    <string name="shop_siam_phone">+66 (0)2 610 8000</string>
+
+    <string name="shop_name_central">Central World</string>
+    <string name="shop_central_short">Entertainment Center</string>
+    <string name="shop_central_full">CentralWorld has a well-rounded collection of shops and entertainment centres catering to the modern lifestyle. The mall is always buzzing with life, hosting live events and concerts on special occasions such as Christmas and Songkran (Thai New Year). You can also find the 15-screen SF World Cinema, Zen and Isetan department stores, and over 100 restaurants and cafés.</string>
+    <string name="shop_central_string_address">999/9 Rama I Rd, Pathumwan, Bangkok 10330, Thailand</string>
+    <string name="shop_central_phone">+66 (0)2 640 7000</string>
+
+    <string name="shop_name_icon_siam">Icon Siam Shopping Mall</string>
+    <string name="shop_icon_siam_short">"Mother of All Malls" in Bangkok</string>
+    <string name="shop_icon_full">Icon Siam Mall is often called the "Mother of All Malls" in Bangkok, with 500 shops and 100 restaurants from more than 30 different countries. Developed by the same tycoons behind Siam Paragon and EmQuartier, Icon Siam offers high-end brands, an indoor floating market, an art gallery, exhibition space, and a beautiful riverside location with views of downtown Bangkok.</string>
+    <string name="shop_icon_string_address">299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand</string>
+    <string name="shop_icon_phone">+66 1338</string>
+
+    <string name="shop_name_mbk">MBK Center</string>
+    <string name="shop_mbk_short">One of the Biggest Malls</string>
+    <string name="shop_mbk_full">MBK Center is known as a haven for all things affordable, with some 2,000 shops occupying 7 floors of retail spaces. One of its main selling points is its extensive range of products, particularly mobile phones, photo equipment, video games, luggage, streetwear, and gold ornaments. Prices are negotiable – MBK is probably the only mall in Bangkok where you can put your bargaining skills to the test.</string>
+    <string name="shop_mbk_string_address"> 444 Phayathai Road, Wang Mai, Pathumwan, Bangkok 10330, Thailand</string>
+    <string name="shop_mbk_phone">+66 (0)2 853 9000</string>
+
+    <string name="shop_name_embassy">Central Embassy Mall</string>
+    <string name="shop_embassy_short">Ultra-luxury lifestyle mall</string>
+    <string name="shop_embassy_full">Central Embassy in Bangkok is an ultra-luxury lifestyle mall with an impressive collection of high-end designer stores and fine-dining restaurants. Part of Park Hyatt Bangkok, the complex has a futuristic design and minimalist white interior, as well as a direct link to the Ploen Chit BTS Skytrain Station. Open House on Level 6 of Central Embassy is an impressive space for dining, co-working and shopping.</string>
+    <string name="shop_embassy_string_address"> 1031 Phloen Chit Rd, Pathumwan, Bangkok 10330, Thailand</string>
+    <string name="shop_embassy_phone">+66 (0)2 119 7777</string>
+</resources>
